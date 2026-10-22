@@ -1,4 +1,4 @@
-"Business rules for Cloudstep Software license orders."
+"""Business rules for Cloudstep Software license orders."""
 
 NO_DISCOUNT = 0.0
 MID_TIER_SEATS = 10
